@@ -1,3 +1,6 @@
+
+![App Demo](https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif)
+
 <h1 align="center">Hi 👋, I'm Mahfuz Hridoy</h1>
 <h3 align="center">Still learning for the best</h3>
 
