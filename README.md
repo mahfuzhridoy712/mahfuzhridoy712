@@ -1,5 +1,7 @@
 
-![App Demo](https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif)
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" />
+</p>
 
 <h1 align="center">Hi 👋, I'm Mahfuz Hridoy</h1>
 <h3 align="center">Still learning for the best</h3>
